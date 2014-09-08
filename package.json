@@ -1,0 +1,24 @@
+{
+  "name": "xs.art-template",
+  "version": "3.0.0",
+  "description": "artTemplate@3.0.0",
+  "keywords": [],
+  "homepage": "https://github.com/aui/artTemplate",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/54xiaosu/xs.art-template.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
