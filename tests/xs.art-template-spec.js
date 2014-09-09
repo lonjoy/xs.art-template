@@ -1,5 +1,5 @@
 var expect = require('expect.js');
-var xs.artTemplate = require('../index');
+var xs.artTemplate = require('../template');
 
 describe('xs.art-template', function() {
 
